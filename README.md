@@ -1,0 +1,1 @@
+# RAG-Application-built-on-Gemini-Model-for-Bearing-Fault-Detection
