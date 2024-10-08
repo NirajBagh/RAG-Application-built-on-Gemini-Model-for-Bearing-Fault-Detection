@@ -4,7 +4,7 @@ This project explores the application of Retrieval-Augmented Generation (RAG) fo
 # How to run?
 # Steps:
 Clone the repository
-https://github.com/NirajBagh/RAG-Application-for-Brain-Computer-Interface.git
+https://github.com/NirajBagh/RAG-Application-built-on-Gemini-Model-for-Bearing-Fault-Detection.git
 # STEP 01- Create virtual environment after opening the repository in VS studio
 py -m venv venv 
 # STEP 02- Activate the enviroment
